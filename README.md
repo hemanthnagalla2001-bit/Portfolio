@@ -2,7 +2,7 @@
 
 A premium, animated personal portfolio website built with React, Framer Motion, and deployed on Vercel.
 
-**Live URL:** _https://your-portfolio.vercel.app_ _(update after deployment)_
+**Live URL:** https://portfolio-roan-one-1pl710gh67.vercel.app
 
 ---
 

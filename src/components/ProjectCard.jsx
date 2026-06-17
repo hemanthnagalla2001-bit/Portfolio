@@ -55,9 +55,14 @@ export default function ProjectCard({ project, index }) {
             Live Demo
           </a>
         ) : (
-          <span className="project-btn project-btn--soon">
-            🚀 Deploying Soon
-          </span>
+          <a
+            href={project.github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project-btn project-btn--soon"
+          >
+            🚀 View Source
+          </a>
         )}
       </div>
     </motion.div>
